@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "name": "peak_hotspot_1",
+    "style": "peak_hotspotstyle_animation_tooltip",
+    "ath": "-122",
+    "atv": "-0.21",
+    "peak_type": "3",
+    "peak_to_scene": "scene_2",
+    "peak_tooltip": "前往第二个场景图"
+  },
+  {
+    "id": "2",
+    "name": "peak_hotspot_2",
+    "style": "peak_hotspotstyle_animation_tooltip",
+    "ath": "-136",
+    "atv": "11",
+    "peak_type": "3",
+    "peak_to_scene": "scene_1",
+    "peak_tooltip": "前往第一个场景图"
+  }
+]

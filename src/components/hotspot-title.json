@@ -1,0 +1,35 @@
+[
+  {
+    "id": "6",
+    "name": "peak_hotspot_6",
+    "style": "peak_hotspotstyle_tooltip_head",
+    "ath": "-130",
+    "atv": "-11",
+    "peak_type": "2",
+    "peak_sceneId": "1",
+    "peak_head": "https://resource.v123.cn/v/Data/upload/live/auth/656/image/5c38805344125.jpg",
+    "peak_tooltip": "我曾经在这里扣篮"
+  },
+  {
+    "id": "7",
+    "name": "peak_hotspot_7",
+    "style": "peak_hotspotstyle_tooltip_head",
+    "ath": "-54",
+    "atv": "19",
+    "peak_type": "2",
+    "peak_sceneId": "1",
+    "peak_head": "https://resource.v123.cn/v/Data/upload/live/auth/656/image/5c38805344125.jpg",
+    "peak_tooltip": "挥洒汗水的地方"
+  },
+  {
+    "id": "8",
+    "name": "peak_hotspot_8",
+    "style": "peak_hotspotstyle_tooltip_head",
+    "ath": "-73",
+    "atv": "-11",
+    "peak_type": "2",
+    "peak_sceneId": "2",
+    "peak_head": "https://resource.v123.cn/v/Data/upload/live/auth/656/image/5c38805344125.jpg",
+    "peak_tooltip": "不知名的神秘大楼"
+  }
+]
